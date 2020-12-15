@@ -1,0 +1,13 @@
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Metodos-Construtores\Exercício 2 - Produtos\bin\Debug\netcoreapp3.1\Exercício 2 - Produtos.exe
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Metodos-Construtores\Exercício 2 - Produtos\bin\Debug\netcoreapp3.1\Exercício 2 - Produtos.deps.json
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Metodos-Construtores\Exercício 2 - Produtos\bin\Debug\netcoreapp3.1\Exercício 2 - Produtos.runtimeconfig.json
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Metodos-Construtores\Exercício 2 - Produtos\bin\Debug\netcoreapp3.1\Exercício 2 - Produtos.runtimeconfig.dev.json
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Metodos-Construtores\Exercício 2 - Produtos\bin\Debug\netcoreapp3.1\Exercício 2 - Produtos.dll
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Metodos-Construtores\Exercício 2 - Produtos\bin\Debug\netcoreapp3.1\Exercício 2 - Produtos.pdb
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Metodos-Construtores\Exercício 2 - Produtos\obj\Debug\netcoreapp3.1\Exercício 2 - Produtos.csprojAssemblyReference.cache
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Metodos-Construtores\Exercício 2 - Produtos\obj\Debug\netcoreapp3.1\Exercício 2 - Produtos.AssemblyInfoInputs.cache
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Metodos-Construtores\Exercício 2 - Produtos\obj\Debug\netcoreapp3.1\Exercício 2 - Produtos.AssemblyInfo.cs
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Metodos-Construtores\Exercício 2 - Produtos\obj\Debug\netcoreapp3.1\Exercício 2 - Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Metodos-Construtores\Exercício 2 - Produtos\obj\Debug\netcoreapp3.1\Exercício 2 - Produtos.dll
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Metodos-Construtores\Exercício 2 - Produtos\obj\Debug\netcoreapp3.1\Exercício 2 - Produtos.pdb
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Metodos-Construtores\Exercício 2 - Produtos\obj\Debug\netcoreapp3.1\Exercício 2 - Produtos.genruntimeconfig.cache
